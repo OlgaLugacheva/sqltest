@@ -16,3 +16,5 @@ UPDATE employee SET first_name = 'Tinky', last_name = 'Winky', gender = 'f', age
 DELETE FROM employee WHERE id = 2;
 
 SELECT * FROM employee;
+
+SELECT * FROM employee;
